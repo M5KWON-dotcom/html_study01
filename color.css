@@ -1,3 +1,50 @@
-h3{
-    color : white;
+.red{
+    color : rgb(116, 197, 186);
+    font-size: 100px;
+    font-family: 굴림;
 }
+.pink{
+    color : #999999;
+    font-size: 100px;
+    font-family: 굴림;
+}
+
+p.blue{
+    color: blueviolet;
+    font-size: 80px;
+    font-family: 궁서체;
+}
+#gray{
+    color: beige;
+    font-size: 70;
+    font-family: 궁서체, 맑은고딕, 굴림, 돋움;
+}
+p.normal{
+    font-weight:normal;
+}
+p.bold{
+     font-weight:bold;
+}
+.right{
+     text-align: right;
+}
+.left{
+     text-align: left;
+}
+.center{
+     text-align: center;
+}
+.apple{
+     background-color: rgb(218, 50, 50);
+     color:aliceblue
+}
+.grape{
+     background-color: rgb(147, 25, 196);
+     color:rgb(82, 97, 15)
+}
+.strawberry{
+     background-color: rgb(212, 65, 127);
+     color:rgb(45, 187, 116)
+}
+
+
